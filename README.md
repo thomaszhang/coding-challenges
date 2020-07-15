@@ -10,3 +10,4 @@
 - [26 Remove Duplicates from Sorted Array](remove_duplicates_from_sorted_array.c)
 - [27 Remove Element](remove_element.c)
 - [35 Search Insert Position](search_insert_position.c)
+- [70 Climbing Stairs](climbing_stairs.c)
