@@ -11,3 +11,6 @@
 - [27 Remove Element](remove_element.c)
 - [35 Search Insert Position](search_insert_position.c)
 - [70 Climbing Stairs](climbing_stairs.c)
+- [739 Daily Temperatures](daily_temperatures.c): Used stack where top stores most recent high temperature value and index
+- [1480 Running Sum of 1D Array](running_sum_of_array.c)
+- [1512 Numbers of Good Pairs](number_of_good_pairs.c)
