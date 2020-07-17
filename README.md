@@ -12,6 +12,8 @@
 | 26   | Remove Duplicates from Sorted Array | Easy       | [C](remove_duplicates_from_sorted_array.c) |
 | 27   | Remove Element                      | Easy       | [C](remove_element.c)                      |
 | 35   | Search Insert Position              | Easy       | [C](search_insert_position.c)              |
+| 53   | Maximum Subarray                    | Easy       | [C](maximum_subarray.c)                    |
+| 58   | Length of Last Word                 | Easy       | [C](length_of_last_word.c)                 |
 | 66   | Plus One                            | Easy       | [C](plus_one.c)                            |
 | 70   | Climbing Stairs                     | Easy       | [C](climbing_stairs.c)                     |
 | 83   | Remove Duplicates from Sorted List  | Easy       | [C](remove_duplicates_from_sorted_list.c)  |
