@@ -21,6 +21,7 @@
 | 88   | Merge Sorted Array                  | Easy       | [C](merge_sorted_array.c)                  |
 | 100  | Same Tree                           | Easy       | [C](same_tree.c)                           |
 | 101  | Symmetric Tree                      | Easy       | [C](symmetric_tree.c)                      |
+| 104  | Maximum Depth of Binary Tree        | Easy       | [C](maximum_depth_of_binary_tree.c)        |
 | 739  | Daily Temperatures                  | Medium     | [C](daily_temperatures.c)                  |
 | 1480 | Running Sum of 1D Array             | Easy       | [C](running_sum_of_array.c)                |
 | 1496 | Path Crossing                       | Easy       | [C](path_crossing.c)                       |
