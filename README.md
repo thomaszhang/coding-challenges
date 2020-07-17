@@ -23,6 +23,7 @@
 | 101  | Symmetric Tree                      | Easy       | [C](symmetric_tree.c)                      |
 | 104  | Maximum Depth of Binary Tree        | Easy       | [C](maximum_depth_of_binary_tree.c)        |
 | 118  | Pascal's Triangle                   | Easy       | [C](pascals_triangle.c)                    |
+| 121  | Best Time to Buy and Sell Stock     | Easy       | [C](best_time_to_buy_and_sell_stock.c)     |
 | 739  | Daily Temperatures                  | Medium     | [C](daily_temperatures.c)                  |
 | 1480 | Running Sum of 1D Array             | Easy       | [C](running_sum_of_array.c)                |
 | 1496 | Path Crossing                       | Easy       | [C](path_crossing.c)                       |
