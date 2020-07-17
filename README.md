@@ -15,10 +15,12 @@
 | 53   | Maximum Subarray                    | Easy       | [C](maximum_subarray.c)                    |
 | 58   | Length of Last Word                 | Easy       | [C](length_of_last_word.c)                 |
 | 66   | Plus One                            | Easy       | [C](plus_one.c)                            |
+| 69   | Square Root                         | Easy       | [C](square_root.c)                         |
 | 70   | Climbing Stairs                     | Easy       | [C](climbing_stairs.c)                     |
 | 83   | Remove Duplicates from Sorted List  | Easy       | [C](remove_duplicates_from_sorted_list.c)  |
 | 88   | Merge Sorted Array                  | Easy       | [C](merge_sorted_array.c)                  |
 | 100  | Same Tree                           | Easy       | [C](same_tree.c)                           |
+| 101  | Symmetric Tree                      | Easy       | [C](symmetric_tree.c)                      |
 | 739  | Daily Temperatures                  | Medium     | [C](daily_temperatures.c)                  |
 | 1480 | Running Sum of 1D Array             | Easy       | [C](running_sum_of_array.c)                |
 | 1496 | Path Crossing                       | Easy       | [C](path_crossing.c)                       |
