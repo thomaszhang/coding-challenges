@@ -1,6 +1,6 @@
 # Coding Challenges
 
-### Problems and Solutions
+### Leetcode Solutions
 | #    | Title                               | Difficulty | Solution                                   |
 |------|-------------------------------------|------------|--------------------------------------------|
 | 1    | Two Sum                             | Easy       | [C](two_sum.c)                             |
