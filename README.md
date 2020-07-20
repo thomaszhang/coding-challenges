@@ -3,7 +3,7 @@
 ### Leetcode Solutions
 | #    | Title                               | Difficulty | C                                            | C++                    | Notes                     |
 |------|-------------------------------------|------------|----------------------------------------------|------------------------|---------------------------|
-| 1    | Two Sum                             | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp) | Brute Force: nested loops |
+| 1    | Two Sum                             | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp) | Nested loop -> Map lookup |
 | 7    | Reverse Integer                     | Easy       | [C](c/reverse_integer.c)                     |                        |                           |
 | 9    | Palindrome Number                   | Easy       | [C](c/[palindrome_number.c)                  |                        |                           |
 | 13   | Roman to Integer                    | Easy       | [C](c/roman_to_integer.c)                    |                        |                           |
