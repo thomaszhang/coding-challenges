@@ -32,5 +32,7 @@
 | 1470 | Shuffle the Array                        | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)                        |                           |
 | 1476 | Subrectangle Queries                     | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp)                     |                           |
 | 1480 | Running Sum of 1D Array                  | Easy       | [C](c/running_sum_of_array.c)                | [C++](cpp/running_sum_of_array.cpp)                     |                           |
+| 1486 | XOR Operation in an Array                | Easy       |                                              | [C++](cpp/xor_operation_in_an_array.cpp)                |                           |
 | 1496 | Path Crossing                            | Easy       | [C](c/path_crossing.c)                       |                                                         |                           |
 | 1512 | Number of Good Pairs                     | Easy       | [C](c/number_of_good_pairs.c)                | [C++](cpp/number_of_good_pairs.cpp)                     |                           |
+
