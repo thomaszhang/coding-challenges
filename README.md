@@ -22,6 +22,7 @@
 | 100  | Same Tree                                            | Easy       | [C](c/same_tree.c)                           |                                                                     |                     |
 | 101  | Symmetric Tree                                       | Easy       | [C](c/symmetric_tree.c)                      |                                                                     |                     |
 | 104  | Maximum Depth of Binary Tree                         | Easy       | [C](c/maximum_depth_of_binary_tree.c)        |                                                                     |                     |
+| 111  | Minimum Depth of Binary Tree                         | Easy       |                                              | [C++](cpp/minimum_depth_of_binary_tree.cpp)                         | Tree                |
 | 118  | Pascal's Triangle                                    | Easy       | [C](c/pascals_triangle.c)                    | [C++](cpp/pascals_triangle.cpp)                                     | Array               |
 | 119  | Pascal's Triangle II                                 | Easy       |                                              | [C++](cpp/pascals_triangle_ii.cpp)                                  | Array               |
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                     |
