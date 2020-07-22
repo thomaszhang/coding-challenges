@@ -28,6 +28,7 @@
 | 136  | Single Number                            | Easy       | [C](c/single_number.c)                       |                                                         |                           |
 | 141  | Linked List Cycle                        | Easy       | [C](c/linked_list_cycle.c)                   |                                                         |                           |
 | 739  | Daily Temperatures                       | Medium     | [C](c/daily_temperatures.c)                  |                                                         |                           |
+| 1395 | Count Number of Teams                    | Medium     |                                              | [C++](cpp/count_number_of_teams.cpp)                    | Needs optimization?       |
 | 1431 | Kids with the Greatest Number of Candies | Easy       |                                              | [C++](cpp/kids_with_the_greatest_number_of_candies.cpp) |                           |
 | 1470 | Shuffle the Array                        | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)                        |                           |
 | 1476 | Subrectangle Queries                     | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp)                     |                           |
@@ -35,4 +36,3 @@
 | 1486 | XOR Operation in an Array                | Easy       |                                              | [C++](cpp/xor_operation_in_an_array.cpp)                |                           |
 | 1496 | Path Crossing                            | Easy       | [C](c/path_crossing.c)                       |                                                         |                           |
 | 1512 | Number of Good Pairs                     | Easy       | [C](c/number_of_good_pairs.c)                | [C++](cpp/number_of_good_pairs.cpp)                     |                           |
-
