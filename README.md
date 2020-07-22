@@ -27,6 +27,7 @@
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                           |
 | 136  | Single Number                                        | Easy       | [C](c/single_number.c)                       |                                                                     |                           |
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                           |
+| 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         |                           |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                           |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                           |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy       |                                              | [C++](cpp/how_many_numbers_are_smaller_than_the_current_number.cpp) |                           |
