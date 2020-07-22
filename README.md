@@ -31,4 +31,4 @@
 | 1476 | Subrectangle Queries                | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp) |                           |
 | 1480 | Running Sum of 1D Array             | Easy       | [C](c/running_sum_of_array.c)                | [C++](cpp/running_sum_of_array.cpp) |                           |
 | 1496 | Path Crossing                       | Easy       | [C](c/path_crossing.c)                       |                                     |                           |
-| 1512 | Number of Good Pairs                | Easy       | [C](c/number_of_good_pairs.c)                |                                     |                           |
+| 1512 | Number of Good Pairs                | Easy       | [C](c/number_of_good_pairs.c)                | [C++](cpp/number_of_good_pairs.cpp) |                           |
