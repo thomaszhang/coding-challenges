@@ -28,6 +28,7 @@
 | 136  | Single Number                       | Easy       | [C](c/single_number.c)                       |                                     |                           |
 | 141  | Linked List Cycle                   | Easy       | [C](c/linked_list_cycle.c)                   |                                     |                           |
 | 739  | Daily Temperatures                  | Medium     | [C](c/daily_temperatures.c)                  |                                     |                           |
+| 1470 | Shuffle the Array                   | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)    |                           |
 | 1476 | Subrectangle Queries                | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp) |                           |
 | 1480 | Running Sum of 1D Array             | Easy       | [C](c/running_sum_of_array.c)                | [C++](cpp/running_sum_of_array.cpp) |                           |
 | 1496 | Path Crossing                       | Easy       | [C](c/path_crossing.c)                       |                                     |                           |
