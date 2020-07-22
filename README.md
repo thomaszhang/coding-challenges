@@ -29,6 +29,7 @@
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                           |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table                |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         |                           |
+| 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          |                           |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math                      |
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math                      |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                           |
@@ -44,5 +45,3 @@
 | 1486 | XOR Operation in an Array                            | Easy       |                                              | [C++](cpp/xor_operation_in_an_array.cpp)                            |                           |
 | 1496 | Path Crossing                                        | Easy       | [C](c/path_crossing.c)                       |                                                                     |                           |
 | 1512 | Number of Good Pairs                                 | Easy       | [C](c/number_of_good_pairs.c)                | [C++](cpp/number_of_good_pairs.cpp)                                 |                           |
-
-
