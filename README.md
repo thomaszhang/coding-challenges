@@ -27,6 +27,7 @@
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                           |
 | 136  | Single Number                                        | Easy       | [C](c/single_number.c)                       |                                                                     |                           |
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                           |
+| 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash set                  |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         |                           |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                           |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                           |
