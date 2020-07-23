@@ -4,6 +4,7 @@
 | #    | Title                                                | Difficulty | C                                            | C++                                                                 | Notes            |
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
 | 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash Table       |
+| 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
 | 7    | Reverse Integer                                      | Easy       | [C](c/reverse_integer.c)                     |                                                                     |                  |
 | 9    | Palindrome Number                                    | Easy       | [C](c/[palindrome_number.c)                  |                                                                     |                  |
 | 13   | Roman to Integer                                     | Easy       | [C](c/roman_to_integer.c)                    |                                                                     |                  |
