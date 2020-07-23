@@ -26,6 +26,7 @@
 | 112  | Path Sum                                             | Easy       |                                              | [C++](cpp/path_tree.cpp)                                            | Tree             |
 | 118  | Pascal's Triangle                                    | Easy       | [C](c/pascals_triangle.c)                    | [C++](cpp/pascals_triangle.cpp)                                     | Array            |
 | 119  | Pascal's Triangle II                                 | Easy       |                                              | [C++](cpp/pascals_triangle_ii.cpp)                                  | Array            |
+| 120  | Triangle                                             | Medium     |                                              | [C++](cpp/triangle.cpp)                                             | Tree             |
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                  |
 | 136  | Single Number                                        | Easy       | [C](c/single_number.c)                       |                                                                     |                  |
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                  |
