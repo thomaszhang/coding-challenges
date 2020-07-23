@@ -12,6 +12,7 @@
 | 9    | Palindrome Number                                    | Easy       | [C](c/[palindrome_number.c)                  |                                                                     |                  |
 | 13   | Roman to Integer                                     | Easy       | [C](c/roman_to_integer.c)                    |                                                                     |                  |
 | 14   | Longest Common Prefix                                | Easy       | [C](c/longest_common_prefix.c)               |                                                                     |                  |
+| 20   | Valid Parentheses                                    | Easy       |                                              | [C++](cpp/valid_parentheses.cpp)                                    | String           |
 | 21   | Merge Two Sorted Lists                               | Easy       | [C](c/merge_two_sorted_lists.c)              |                                                                     |                  |
 | 26   | Remove Duplicates from Sorted Array                  | Easy       | [C](c/remove_duplicates_from_sorted_array.c) |                                                                     |                  |
 | 27   | Remove Element                                       | Easy       | [C](c/remove_element.c)                      |                                                                     |                  |
