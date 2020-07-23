@@ -16,6 +16,7 @@
 | 21   | Merge Two Sorted Lists                               | Easy       | [C](c/merge_two_sorted_lists.c)              |                                                                     |                  |
 | 26   | Remove Duplicates from Sorted Array                  | Easy       | [C](c/remove_duplicates_from_sorted_array.c) |                                                                     |                  |
 | 27   | Remove Element                                       | Easy       | [C](c/remove_element.c)                      |                                                                     |                  |
+| 28   | Implement strStr()                                   | Easy       |                                              | [C++](cpp/implement_strstr.cpp)                                     | String           |
 | 35   | Search Insert Position                               | Easy       | [C](c/search_insert_position.c)              |                                                                     |                  |
 | 53   | Maximum Subarray                                     | Easy       | [C](c/maximum_subarray.c)                    |                                                                     |                  |
 | 58   | Length of Last Word                                  | Easy       | [C](c/length_of_last_word.c)                 |                                                                     |                  |
