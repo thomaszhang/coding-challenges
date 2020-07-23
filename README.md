@@ -6,6 +6,7 @@
 | 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash Table       |
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
 | 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sorting          |
+| 6    | ZigZag Conversion                                    | Medium     |                                              | [C++](cpp/zigzag_conversion.cpp)                                    | String           |
 | 7    | Reverse Integer                                      | Easy       | [C](c/reverse_integer.c)                     |                                                                     |                  |
 | 8    | String to Integer (atoi)                             | Medium     |                                              | [C++](cpp/string_to_integer.cpp)                                    | String           |
 | 9    | Palindrome Number                                    | Easy       | [C](c/[palindrome_number.c)                  |                                                                     |                  |
