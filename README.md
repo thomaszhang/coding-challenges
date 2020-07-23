@@ -5,6 +5,7 @@
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
 | 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash Table       |
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
+| 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sorting          |
 | 7    | Reverse Integer                                      | Easy       | [C](c/reverse_integer.c)                     |                                                                     |                  |
 | 9    | Palindrome Number                                    | Easy       | [C](c/[palindrome_number.c)                  |                                                                     |                  |
 | 13   | Roman to Integer                                     | Easy       | [C](c/roman_to_integer.c)                    |                                                                     |                  |
