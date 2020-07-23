@@ -36,6 +36,7 @@
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                  |
 | 136  | Single Number                                        | Easy       | [C](c/single_number.c)                       |                                                                     |                  |
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                  |
+| 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
