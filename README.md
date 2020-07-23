@@ -7,6 +7,7 @@
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
 | 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sorting          |
 | 7    | Reverse Integer                                      | Easy       | [C](c/reverse_integer.c)                     |                                                                     |                  |
+| 8    | String to Integer (atoi)                             | Medium     |                                              | [C++](cpp/string_to_integer.cpp)                                    | String           |
 | 9    | Palindrome Number                                    | Easy       | [C](c/[palindrome_number.c)                  |                                                                     |                  |
 | 13   | Roman to Integer                                     | Easy       | [C](c/roman_to_integer.c)                    |                                                                     |                  |
 | 14   | Longest Common Prefix                                | Easy       | [C](c/longest_common_prefix.c)               |                                                                     |                  |
