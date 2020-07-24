@@ -48,6 +48,7 @@
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
+| 1221 | Split a String in Balanced Strings                   | Easy       |                                              | [C++](cpp/split_a_string_in_balanced_strings.cpp)                   | String           |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
 | 1295 | Find Numbers with Even Number of Digits              | Easy       |                                              | [C++](cpp/find_numbers_with_even_number_of_digits.cpp)              | Math             |
 | 1302 | Deepest Leaves Sum                                   | Medium     |                                              | [C++](cpp/deepest_leaves_sum.cpp)                                   | Tree             |
