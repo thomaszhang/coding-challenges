@@ -46,6 +46,7 @@
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                  |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
+| 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                  |
