@@ -36,6 +36,7 @@
 | 121  | Best Time to Buy and Sell Stock                      | Easy       | [C](c/best_time_to_buy_and_sell_stock.c)     |                                                                     |                  |
 | 136  | Single Number                                        | Easy       | [C](c/single_number.c)                       |                                                                     |                  |
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     |                  |
+| 151  | Reverse Words in a String                            | Medium     |                                              | [C++](cpp/reverse_words_in_a_string.cpp)                            | String           |
 | 155  | Min Stack                                            | Easy       |                                              | [C++](cpp/min_stack.cpp)                                            | Stack            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
