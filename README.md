@@ -45,6 +45,7 @@
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                  |
+| 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                  |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy       |                                              | [C++](cpp/how_many_numbers_are_smaller_than_the_current_number.cpp) |                  |
 | 1389 | Create Target Array in the Given Order               | Easy       |                                              | [C++](cpp/create_target_array_in_the_given_order.cpp)               |                  |
