@@ -45,6 +45,7 @@
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                  |
+| 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                  |
 | 1342 | Number of Steps to Reduce a Number to Zero           | Easy       |                                              | [C++](cpp/number_of_steps_to_reduce_a_number_to_zero.cpp)           |                  |
