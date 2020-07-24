@@ -47,6 +47,7 @@
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     |                  |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   |                  |
 | 1342 | Number of Steps to Reduce a Number to Zero           | Easy       |                                              | [C++](cpp/number_of_steps_to_reduce_a_number_to_zero.cpp)           |                  |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy       |                                              | [C++](cpp/how_many_numbers_are_smaller_than_the_current_number.cpp) |                  |
