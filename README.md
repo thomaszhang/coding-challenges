@@ -18,7 +18,8 @@
 | 27   | Remove Element                                       | Easy       | [C](c/remove_element.c)                      |                                                                     | Array            |
 | 28   | Implement strStr()                                   | Easy       |                                              | [C++](cpp/implement_strstr.cpp)                                     | String           |
 | 35   | Search Insert Position                               | Easy       | [C](c/search_insert_position.c)              |                                                                     |                  |
-| 46   | Permutations                                         | Medium     |                                              | [C++](permutations.cpp)                                             | Backtracking     |
+| 46   | Permutations                                         | Medium     |                                              | [C++](permutations.cpp)                                             | Combinatorics    |
+| 48   | Rotate Image                                         | Medium     |                                              | [C++](rotate_image.cpp)                                             | Geometry         |
 | 53   | Maximum Subarray                                     | Easy       | [C](c/maximum_subarray.c)                    |                                                                     |                  |
 | 58   | Length of Last Word                                  | Easy       | [C](c/length_of_last_word.c)                 |                                                                     |                  |
 | 66   | Plus One                                             | Easy       | [C](c/plus_one.c)                            |                                                                     |                  |
