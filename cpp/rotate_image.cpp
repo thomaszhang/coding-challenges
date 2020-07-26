@@ -1,3 +1,6 @@
+// O(N)
+// Walk each element for two reflections
+
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {

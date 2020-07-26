@@ -1,5 +1,5 @@
 // ~O(N) time complexity
-// Shifting two arrays and comparing from beginning
+// Idea: shifting two arrays and find prefix match
 
 class Solution {
 public:
