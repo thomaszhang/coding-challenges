@@ -1,4 +1,6 @@
-// 
+// O(N^2)
+// Remove smallest pairs first
+// If no pairs are left but string is not empty, string is invalid
 class Solution {
 public:
     bool isValid(string s) {
