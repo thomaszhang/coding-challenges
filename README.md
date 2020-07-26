@@ -13,6 +13,7 @@
 | 13   | Roman to Integer                                     | Easy       | [C](c/roman_to_integer.c)                    |                                                                     | String           |
 | 14   | Longest Common Prefix                                | Easy       | [C](c/longest_common_prefix.c)               |                                                                     | String           |
 | 17   | Letter Combinations of a Phone Number                | Medium     |                                              | [C++](cpp/letter_combinations_of_a_phone_number.cpp)                | Combinatorics    |
+| 19   | Remove Nth Node From End of List                     | Medium     |                                              | [C++](cpp/remove_nth_node_from_end_of_list.cpp)                     | Linked List      |
 | 20   | Valid Parentheses                                    | Easy       |                                              | [C++](cpp/valid_parentheses.cpp)                                    | String           |
 | 21   | Merge Two Sorted Lists                               | Easy       | [C](c/merge_two_sorted_lists.c)              |                                                                     | Sorting          |
 | 26   | Remove Duplicates from Sorted Array                  | Easy       | [C](c/remove_duplicates_from_sorted_array.c) |                                                                     | Array            |
