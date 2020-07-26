@@ -42,6 +42,7 @@
 | 141  | Linked List Cycle                                    | Easy       | [C](c/linked_list_cycle.c)                   |                                                                     | Linked List      |
 | 151  | Reverse Words in a String                            | Medium     |                                              | [C++](cpp/reverse_words_in_a_string.cpp)                            | String           |
 | 155  | Min Stack                                            | Easy       |                                              | [C++](cpp/min_stack.cpp)                                            | Stack            |
+| 169  | Majority Element                                     | Easy       |                                              | [C++](cpp/majority_element.cpp)                                     | Array            |
 | 189  | Rotate Array                                         | Easy       |                                              | [C++](cpp/rotate_array.cpp)                                         | Array            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
