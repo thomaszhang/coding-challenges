@@ -3,7 +3,7 @@
 ### Leetcode Solutions
 | #    | Title                                                | Difficulty | C                                            | C++                                                                 | Notes            |
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
-| 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash Table       |
+| 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hashing          |
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
 | 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sorting          |
 | 6    | ZigZag Conversion                                    | Medium     |                                              | [C++](cpp/zigzag_conversion.cpp)                                    | String           |
@@ -47,9 +47,10 @@
 | 172  | Factorial Trailing Zeroes                            | Easy       |                                              | [C++](cpp/factorial_cpp_zeroes.cpp)                                 | Math             |
 | 189  | Rotate Array                                         | Easy       |                                              | [C++](cpp/rotate_array.cpp)                                         | Array            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
-| 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
+| 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hashing          |
 | 206  | Reverse Linked List                                  | Easy       |                                              | [C++](cpp/reverse_linked_list.cpp)                                  | Linked List      |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
+| 237  | Delete Node in a Linked List                         | Easy       |                                              | [C++](cpp/delete_node_in_a_linked_list.cpp)                         | Linked List      |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 344  | Reverse String                                       | Easy       |                                              | [C++](cpp/reverse_string.cpp)                                       | String           |
