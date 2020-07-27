@@ -48,6 +48,7 @@
 | 189  | Rotate Array                                         | Easy       |                                              | [C++](cpp/rotate_array.cpp)                                         | Array            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
+| 206  | Reverse Linked List                                  | Easy       |                                              | [C++](cpp/reverse_linked_list.cpp)                                  | Linked List      |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
