@@ -52,6 +52,7 @@
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
+| 344  | Reverse String                                       | Easy       |                                              | [C++](cpp/reverse_string.cpp)                                       | String           |
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     | Stack            |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
