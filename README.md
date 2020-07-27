@@ -43,6 +43,7 @@
 | 151  | Reverse Words in a String                            | Medium     |                                              | [C++](cpp/reverse_words_in_a_string.cpp)                            | String           |
 | 155  | Min Stack                                            | Easy       |                                              | [C++](cpp/min_stack.cpp)                                            | Stack            |
 | 169  | Majority Element                                     | Easy       |                                              | [C++](cpp/majority_element.cpp)                                     | Array            |
+| 172  | Factorial Trailing Zeroes                            | Easy       |                                              | [C++](cpp/factorial_cpp_zeroes.cpp)                                 | Math             |
 | 189  | Rotate Array                                         | Easy       |                                              | [C++](cpp/rotate_array.cpp)                                         | Array            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
 | 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash Table       |
