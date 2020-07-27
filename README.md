@@ -51,6 +51,7 @@
 | 206  | Reverse Linked List                                  | Easy       |                                              | [C++](cpp/reverse_linked_list.cpp)                                  | Linked List      |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
 | 237  | Delete Node in a Linked List                         | Easy       |                                              | [C++](cpp/delete_node_in_a_linked_list.cpp)                         | Linked List      |
+| 242  | Valid Anagram                                        | Easy       |                                              | [C++](cpp/valid_anagram.cpp)                                        | Hashing          |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 344  | Reverse String                                       | Easy       |                                              | [C++](cpp/reverse_string.cpp)                                       | String           |
