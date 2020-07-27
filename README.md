@@ -55,6 +55,7 @@
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 344  | Reverse String                                       | Easy       |                                              | [C++](cpp/reverse_string.cpp)                                       | String           |
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
+| 387  | First Unique Character in a String                   | Easy       |                                              | [C++](cpp/first_unique_character_in_a_string.cpp)                   | String           |
 | 412  | Fizz Buzz                                            | Easy       |                                              | [C++](cpp/fizz_buzz.cpp)                                            | String           |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     | Stack            |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
