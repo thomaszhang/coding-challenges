@@ -61,6 +61,7 @@
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     | Stack            |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
+| 938  | Range Sum of BST                                     | Easy       |                                              | [C++](cpp/range_sum_of_bst.cpp)                                     | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1221 | Split a String in Balanced Strings                   | Easy       |                                              | [C++](cpp/split_a_string_in_balanced_strings.cpp)                   | String           |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
