@@ -70,6 +70,7 @@
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
 | 1290 | Convert Binary Number in a Linked List to Integer    | Easy       |                                              | [C++](cpp/convert_binary_number_in_a_linked_list_to_integer.cpp)    | Math             |
 | 1295 | Find Numbers with Even Number of Digits              | Easy       |                                              | [C++](cpp/find_numbers_with_even_number_of_digits.cpp)              | Math             |
+| 1299 | Replace Elements with Greatest Element on Right Side | Easy       |                                              | [C++](cpp/replace_elements_with_greatest_element_on_right_side.cpp) | Array            |
 | 1302 | Deepest Leaves Sum                                   | Medium     |                                              | [C++](cpp/deepest_leaves_sum.cpp)                                   | Tree             |
 | 1304 | Find N Unique Integers Sum up to Zero                | Easy       |                                              | [C++](cpp/find_n_unique_integers_sum_up_to_zero.cpp)                | Array            |
 | 1309 | Decrypt String from Alphabet to Integer Mapping      | Easy       |                                              | [C++](cpp/decrypt_string_from_alphabet_to_integer_mapping.cpp)      | String           |
