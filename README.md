@@ -65,6 +65,7 @@
 | 938  | Range Sum of BST                                     | Easy       |                                              | [C++](cpp/range_sum_of_bst.cpp)                                     | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1221 | Split a String in Balanced Strings                   | Easy       |                                              | [C++](cpp/split_a_string_in_balanced_strings.cpp)                   | String           |
+| 1252 | Cells with Odd Values in a Matrix                    | Easy       |                                              | [C++](cpp/cells_with_odd_values_in_a_matrix.cpp)                    | Array            |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
 | 1290 | Convert Binary Number in a Linked List to Integer    | Easy       |                                              | [C++](cpp/convert_binary_number_in_a_linked_list_to_integer.cpp)    | Math             |
 | 1295 | Find Numbers with Even Number of Digits              | Easy       |                                              | [C++](cpp/find_numbers_with_even_number_of_digits.cpp)              | Math             |
