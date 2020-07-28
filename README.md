@@ -87,6 +87,7 @@
 | 1431 | Kids with the Greatest Number of Candies             | Easy       |                                              | [C++](cpp/kids_with_the_greatest_number_of_candies.cpp)             | Array            |
 | 1436 | Destination City                                     | Easy       |                                              | [C++](cpp/destination_city.cpp)                                     | Hashing          |
 | 1450 | Number of Students Doing Homework at a Given Time    | Easy       |                                              | [C++](cpp/number_of_students_doing_homework_at_a_given_time.cpp)    | Array            |
+| 1460 | Make Two Arrays Equal By Reversing Subarrays         | Easy       |                                              | [C++](cpp/make_two_arrays_equal_by_reversing_subarrays.cpp)         | Hashing          |
 | 1464 | Maximum Product of Two Elements in an Array          | Easy       |                                              | [C++](cpp/maximum_product_of_two_elements_in_an_array.cpp)          | Array            |
 | 1470 | Shuffle the Array                                    | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)                                    | Array            |
 | 1476 | Subrectangle Queries                                 | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp)                                 | Array            |
