@@ -71,6 +71,7 @@
 | 1290 | Convert Binary Number in a Linked List to Integer    | Easy       |                                              | [C++](cpp/convert_binary_number_in_a_linked_list_to_integer.cpp)    | Math             |
 | 1295 | Find Numbers with Even Number of Digits              | Easy       |                                              | [C++](cpp/find_numbers_with_even_number_of_digits.cpp)              | Math             |
 | 1302 | Deepest Leaves Sum                                   | Medium     |                                              | [C++](cpp/deepest_leaves_sum.cpp)                                   | Tree             |
+| 1304 | Find N Unique Integers Sum up to Zero                | Easy       |                                              | [C++](cpp/find_n_unique_integers_sum_up_to_zero.cpp)                | Array            |
 | 1309 | Decrypt String from Alphabet to Integer Mapping      | Easy       |                                              | [C++](cpp/decrypt_string_from_alphabet_to_integer_mapping.cpp)      | String           |
 | 1313 | Decompress Run-Length Encoded List                   | Easy       |                                              | [C++](cpp/decompress_run_length_encoded_list.cpp)                   | Array            |
 | 1315 | Sum of Nodes with Even-Valued Grandparent            | Medium     |                                              | [C++](cpp/sum_of_nodes_with_even_valued_grandparent.cpp)            | Tree             |
@@ -78,6 +79,7 @@
 | 1342 | Number of Steps to Reduce a Number to Zero           | Easy       |                                              | [C++](cpp/number_of_steps_to_reduce_a_number_to_zero.cpp)           | Math             |
 | 1351 | Count Negative Numbers in a Sorted Matrix            | Easy       |                                              | [C++](cpp/count_negative_numbers_in_a_sorted_martrix.cpp)           | Search           |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy       |                                              | [C++](cpp/how_many_numbers_are_smaller_than_the_current_number.cpp) | Array            |
+| 1374 | Generate String with Characters That Have Odd Counts | Easy       |                                              | [C++](cpp/generate_string_with_characters_that_have_odd_counts.cpp) | String           |
 | 1389 | Create Target Array in the Given Order               | Easy       |                                              | [C++](cpp/create_target_array_in_the_given_order.cpp)               | Array            |
 | 1395 | Count Number of Teams                                | Medium     |                                              | [C++](cpp/count_number_of_teams.cpp)                                | Array            |
 | 1409 | Queries on a Permutation with Key                    | Medium     |                                              | [C++](cpp/queries_on_a_permutation_with_key.cpp)                    | Array            |
