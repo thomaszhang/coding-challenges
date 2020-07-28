@@ -59,6 +59,7 @@
 | 387  | First Unique Character in a String                   | Easy       |                                              | [C++](cpp/first_unique_character_in_a_string.cpp)                   | String           |
 | 412  | Fizz Buzz                                            | Easy       |                                              | [C++](cpp/fizz_buzz.cpp)                                            | String           |
 | 709  | To Lower Case                                        | Easy       |                                              | [C++](cpp/to_lower_case.cpp)                                        | String           |
+| 728  | Self Dividing Numbers                                | Easy       |                                              | [C++](cpp/self_dividing_numbers.cpp)                                | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     | Stack            |
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
