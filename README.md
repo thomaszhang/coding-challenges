@@ -80,6 +80,7 @@
 | 1409 | Queries on a Permutation with Key                    | Medium     |                                              | [C++](cpp/queries_on_a_permutation_with_key.cpp)                    | Array            |
 | 1431 | Kids with the Greatest Number of Candies             | Easy       |                                              | [C++](cpp/kids_with_the_greatest_number_of_candies.cpp)             | Array            |
 | 1450 | Number of Students Doing Homework at a Given Time    | Easy       |                                              | [C++](cpp/number_of_students_doing_homework_at_a_given_time.cpp)    | Array            |
+| 1464 | Maximum Product of Two Elements in an Array          | Easy       |                                              | [C++](cpp/maximum_product_of_two_elements_in_an_array.cpp)          | Array            |
 | 1470 | Shuffle the Array                                    | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)                                    | Array            |
 | 1476 | Subrectangle Queries                                 | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp)                                 | Array            |
 | 1480 | Running Sum of 1D Array                              | Easy       | [C](c/running_sum_of_array.c)                | [C++](cpp/running_sum_of_array.cpp)                                 | Array            |
