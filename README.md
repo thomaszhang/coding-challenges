@@ -5,7 +5,7 @@
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
 | 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hashing          |
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
-| 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sorting          |
+| 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sort             |
 | 6    | ZigZag Conversion                                    | Medium     |                                              | [C++](cpp/zigzag_conversion.cpp)                                    | String           |
 | 7    | Reverse Integer                                      | Easy       | [C](c/reverse_integer.c)                     |                                                                     | Math             |
 | 8    | String to Integer (atoi)                             | Medium     |                                              | [C++](cpp/string_to_integer.cpp)                                    | String           |
@@ -15,7 +15,7 @@
 | 17   | Letter Combinations of a Phone Number                | Medium     |                                              | [C++](cpp/letter_combinations_of_a_phone_number.cpp)                | Combinatorics    |
 | 19   | Remove Nth Node From End of List                     | Medium     |                                              | [C++](cpp/remove_nth_node_from_end_of_list.cpp)                     | Linked List      |
 | 20   | Valid Parentheses                                    | Easy       |                                              | [C++](cpp/valid_parentheses.cpp)                                    | String           |
-| 21   | Merge Two Sorted Lists                               | Easy       | [C](c/merge_two_sorted_lists.c)              |                                                                     | Sorting          |
+| 21   | Merge Two Sorted Lists                               | Easy       | [C](c/merge_two_sorted_lists.c)              |                                                                     | Sort             |
 | 26   | Remove Duplicates from Sorted Array                  | Easy       | [C](c/remove_duplicates_from_sorted_array.c) |                                                                     | Array            |
 | 27   | Remove Element                                       | Easy       | [C](c/remove_element.c)                      |                                                                     | Array            |
 | 28   | Implement strStr()                                   | Easy       |                                              | [C++](cpp/implement_strstr.cpp)                                     | String           |
@@ -28,7 +28,7 @@
 | 69   | Square Root                                          | Easy       | [C](c/square_root.c)                         |                                                                     | Math             |
 | 70   | Climbing Stairs                                      | Easy       | [C](c/climbing_stairs.c)                     |                                                                     | Math             |
 | 83   | Remove Duplicates from Sorted List                   | Easy       | [C](c/remove_duplicates_from_sorted_list.c)  |                                                                     | Linked List      |
-| 88   | Merge Sorted Array                                   | Easy       | [C](c/merge_sorted_array.c)                  |                                                                     | Sorting          |
+| 88   | Merge Sorted Array                                   | Easy       | [C](c/merge_sorted_array.c)                  |                                                                     | Sort             |
 | 100  | Same Tree                                            | Easy       | [C](c/same_tree.c)                           |                                                                     | Tree             |
 | 101  | Symmetric Tree                                       | Easy       | [C](c/symmetric_tree.c)                      |                                                                     | Tree             |
 | 104  | Maximum Depth of Binary Tree                         | Easy       | [C](c/maximum_depth_of_binary_tree.c)        |                                                                     | Tree             |
@@ -70,6 +70,7 @@
 | 938  | Range Sum of BST                                     | Easy       |                                              | [C++](cpp/range_sum_of_bst.cpp)                                     | Tree             |
 | 965  | Univalued Binary Tree                                | Easy       |                                              | [C++](cpp/univalued_binary_tree.cpp)                                | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
+| 1200 | Minimum Absolute Difference                          | Easy       |                                              | [C++](cpp/minimum_absolute_difference.cpp)                          | Sort             |
 | 1207 | Unique Number of Occurrences                         | Easy       |                                              | [C++](cpp/unique_number_of_occurrences.cpp)                         | Hashing          |
 | 1221 | Split a String in Balanced Strings                   | Easy       |                                              | [C++](cpp/split_a_string_in_balanced_strings.cpp)                   | String           |
 | 1252 | Cells with Odd Values in a Matrix                    | Easy       |                                              | [C++](cpp/cells_with_odd_values_in_a_matrix.cpp)                    | Array            |
