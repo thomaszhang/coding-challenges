@@ -83,6 +83,7 @@
 | 1351 | Count Negative Numbers in a Sorted Matrix            | Easy       |                                              | [C++](cpp/count_negative_numbers_in_a_sorted_martrix.cpp)           | Search           |
 | 1365 | How Many Numbers Are Smaller Than The Current Number | Easy       |                                              | [C++](cpp/how_many_numbers_are_smaller_than_the_current_number.cpp) | Array            |
 | 1374 | Generate String with Characters That Have Odd Counts | Easy       |                                              | [C++](cpp/generate_string_with_characters_that_have_odd_counts.cpp) | String           |
+| 1380 | Lucky Numbers in a Matrix                            | Easy       |                                              | [C++](cpp/lucky_numbers_in_a_matrix.cpp)                            | Array            |
 | 1389 | Create Target Array in the Given Order               | Easy       |                                              | [C++](cpp/create_target_array_in_the_given_order.cpp)               | Array            |
 | 1395 | Count Number of Teams                                | Medium     |                                              | [C++](cpp/count_number_of_teams.cpp)                                | Array            |
 | 1409 | Queries on a Permutation with Key                    | Medium     |                                              | [C++](cpp/queries_on_a_permutation_with_key.cpp)                    | Array            |
