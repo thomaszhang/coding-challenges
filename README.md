@@ -65,6 +65,7 @@
 | 771  | Jewels and Stones                                    | Easy       |                                              | [C++](cpp/jewels_and_stones.cpp)                                    | String           |
 | 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
 | 832  | Flipping an Image                                    | Easy       |                                              | [C++](cpp/flipping_an_image.cpp)                                    | Array            |
+| 876  | Middle of the Linked List                            | Easy       |                                              | [C++](cpp/middle_of_the_linked_list.cpp)                            | Linked List      |
 | 938  | Range Sum of BST                                     | Easy       |                                              | [C++](cpp/range_sum_of_bst.cpp)                                     | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1207 | Unique Number of Occurrences                         | Easy       |                                              | [C++](cpp/unique_number_of_occurrences.cpp)                         | Hashing          |
