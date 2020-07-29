@@ -58,6 +58,7 @@
 | 367  | Valid Perfect Square                                 | Easy       |                                              | [C++](cpp/valid_perfect_square.cpp)                                 | Math             |
 | 387  | First Unique Character in a String                   | Easy       |                                              | [C++](cpp/first_unique_character_in_a_string.cpp)                   | String           |
 | 412  | Fizz Buzz                                            | Easy       |                                              | [C++](cpp/fizz_buzz.cpp)                                            | String           |
+| 589  | N-ary Tree Preorder Traversal                        | Easy       |                                              | [C++](cpp/nary_tree_preorder_traversal.cpp)                         | Tree             |
 | 709  | To Lower Case                                        | Easy       |                                              | [C++](cpp/to_lower_case.cpp)                                        | String           |
 | 728  | Self Dividing Numbers                                | Easy       |                                              | [C++](cpp/self_dividing_numbers.cpp)                                | Math             |
 | 739  | Daily Temperatures                                   | Medium     | [C](c/daily_temperatures.c)                  |                                                                     | Stack            |
