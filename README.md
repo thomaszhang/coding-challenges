@@ -1,9 +1,10 @@
 # Coding Challenges
 
 ### Leetcode Solutions
+**Total completed:** 100/1531
 | #    | Title                                                | Difficulty | C                                            | C++                                                                 | Notes            |
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
-| 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hashing          |
+| 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash             |
 | 2    | Add Two Numbers                                      | Medium     |                                              | [C++](cpp/add_two_numbers.cpp)                                      | Linked List      |
 | 4    | Median of Two Sorted Arrays                          | Hard       |                                              | [C++](cpp/median_of_two_sorted_arrays.cpp)                          | Sort             |
 | 6    | ZigZag Conversion                                    | Medium     |                                              | [C++](cpp/zigzag_conversion.cpp)                                    | String           |
@@ -47,11 +48,11 @@
 | 172  | Factorial Trailing Zeroes                            | Easy       |                                              | [C++](cpp/factorial_cpp_zeroes.cpp)                                 | Math             |
 | 189  | Rotate Array                                         | Easy       |                                              | [C++](cpp/rotate_array.cpp)                                         | Array            |
 | 191  | Number of 1 Bits                                     | Easy       |                                              | [C++](cpp/number_of_one_bits.cpp)                                   | Math             |
-| 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hashing          |
+| 202  | Happy Number                                         | Easy       |                                              | [C++](cpp/happy_number.cpp)                                         | Hash             |
 | 206  | Reverse Linked List                                  | Easy       |                                              | [C++](cpp/reverse_linked_list.cpp)                                  | Linked List      |
 | 231  | Power of Two                                         | Easy       |                                              | [C++](cpp/power_of_two.cpp)                                         | Math             |
 | 237  | Delete Node in a Linked List                         | Easy       |                                              | [C++](cpp/delete_node_in_a_linked_list.cpp)                         | Linked List      |
-| 242  | Valid Anagram                                        | Easy       |                                              | [C++](cpp/valid_anagram.cpp)                                        | Hashing          |
+| 242  | Valid Anagram                                        | Easy       |                                              | [C++](cpp/valid_anagram.cpp)                                        | Hash             |
 | 283  | Move Zeroes                                          | Easy       |                                              | [C++](cpp/move_zeroes.cpp)                                          | Array            |
 | 326  | Power of Three                                       | Easy       |                                              | [C++](cpp/power_of_three.cpp)                                       | Math             |
 | 344  | Reverse String                                       | Easy       |                                              | [C++](cpp/reverse_string.cpp)                                       | String           |
@@ -71,7 +72,7 @@
 | 965  | Univalued Binary Tree                                | Easy       |                                              | [C++](cpp/univalued_binary_tree.cpp)                                | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
 | 1200 | Minimum Absolute Difference                          | Easy       |                                              | [C++](cpp/minimum_absolute_difference.cpp)                          | Sort             |
-| 1207 | Unique Number of Occurrences                         | Easy       |                                              | [C++](cpp/unique_number_of_occurrences.cpp)                         | Hashing          |
+| 1207 | Unique Number of Occurrences                         | Easy       |                                              | [C++](cpp/unique_number_of_occurrences.cpp)                         | Hash             |
 | 1221 | Split a String in Balanced Strings                   | Easy       |                                              | [C++](cpp/split_a_string_in_balanced_strings.cpp)                   | String           |
 | 1252 | Cells with Odd Values in a Matrix                    | Easy       |                                              | [C++](cpp/cells_with_odd_values_in_a_matrix.cpp)                    | Array            |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |                                              | [C++](cpp/subtract_the_product_and_sum_of_digits_of_an_integer.cpp) | Math             |
@@ -93,9 +94,9 @@
 | 1395 | Count Number of Teams                                | Medium     |                                              | [C++](cpp/count_number_of_teams.cpp)                                | Array            |
 | 1409 | Queries on a Permutation with Key                    | Medium     |                                              | [C++](cpp/queries_on_a_permutation_with_key.cpp)                    | Array            |
 | 1431 | Kids with the Greatest Number of Candies             | Easy       |                                              | [C++](cpp/kids_with_the_greatest_number_of_candies.cpp)             | Array            |
-| 1436 | Destination City                                     | Easy       |                                              | [C++](cpp/destination_city.cpp)                                     | Hashing          |
+| 1436 | Destination City                                     | Easy       |                                              | [C++](cpp/destination_city.cpp)                                     | Hash             |
 | 1450 | Number of Students Doing Homework at a Given Time    | Easy       |                                              | [C++](cpp/number_of_students_doing_homework_at_a_given_time.cpp)    | Array            |
-| 1460 | Make Two Arrays Equal By Reversing Subarrays         | Easy       |                                              | [C++](cpp/make_two_arrays_equal_by_reversing_subarrays.cpp)         | Hashing          |
+| 1460 | Make Two Arrays Equal By Reversing Subarrays         | Easy       |                                              | [C++](cpp/make_two_arrays_equal_by_reversing_subarrays.cpp)         | Hash             |
 | 1464 | Maximum Product of Two Elements in an Array          | Easy       |                                              | [C++](cpp/maximum_product_of_two_elements_in_an_array.cpp)          | Array            |
 | 1470 | Shuffle the Array                                    | Easy       |                                              | [C++](cpp/shuffle_the_array.cpp)                                    | Array            |
 | 1476 | Subrectangle Queries                                 | Medium     |                                              | [C++](cpp/subrectangle_queries.cpp)                                 | Array            |
