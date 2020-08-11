@@ -1,7 +1,7 @@
 # Coding Challenges
 
 ### Leetcode Solutions
-**Total completed:** 101/1531
+**Total completed:** 102/1531
 | #    | Title                                                | Difficulty | C                                            | C++                                                                 | Notes            |
 |------|------------------------------------------------------|------------|----------------------------------------------|---------------------------------------------------------------------|------------------|
 | 1    | Two Sum                                              | Easy       | [C](c/two_sum.c)                             | [C++](cpp/two_sum.cpp)                                              | Hash             |
@@ -68,6 +68,7 @@
 | 807  | Max Increase to Keep City Skyline                    | Medium     |                                              | [C++](cpp/max_increase_to_keep_city_skyline.cpp)                    | Array            |
 | 832  | Flipping an Image                                    | Easy       |                                              | [C++](cpp/flipping_an_image.cpp)                                    | Array            |
 | 876  | Middle of the Linked List                            | Easy       |                                              | [C++](cpp/middle_of_the_linked_list.cpp)                            | Linked List      |
+| 912  | Sort an Array                                        | Medium     |                                              | [C++](cpp/sort_an_array.cpp)                                        | Sort             |
 | 938  | Range Sum of BST                                     | Easy       |                                              | [C++](cpp/range_sum_of_bst.cpp)                                     | Tree             |
 | 965  | Univalued Binary Tree                                | Easy       |                                              | [C++](cpp/univalued_binary_tree.cpp)                                | Tree             |
 | 1108 | Defanging an IP Address                              | Easy       |                                              | [C++](cpp/defanging_an_ip_address.cpp)                              | String           |
